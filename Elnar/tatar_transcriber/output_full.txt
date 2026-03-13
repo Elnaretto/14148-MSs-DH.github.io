@@ -1,0 +1,42 @@
+=== Webpage text ===
+Latin:
+
+Cyrillic:
+
+English:
+NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT
+
+=== Image text ===
+Latin:
+barlq kşيlr dh
+آzad hm awz
+آbrwيlrى hm
+hqwqlrى يaغيndn
+tيk bwlwb طwwlr
+wcdan brlkan hm
+br brsيnh frdth
+طwغanlrch
+mnasbtdh bwlwrغh
+tيwşlr
+Cyrillic:
+барлк кшيлр дһ
+آзад һм авз
+آбрвيлрى һм
+һквклрى يаغيндн
+тيк бвлвб طввлр
+вдждан брлкан һм
+бр брсيнһ фрдтһ
+طвغанлрджһ
+мнасбтдһ бвлврغһ
+тيвшлр
+English:
+lieutenant يColonel Lloyd
+آtawfeeq Baksh
+آيbrigadierى General
+ى يغيnguyen
+p rي i n t Dryingط.
+migrate to On-Premise
+يfriedrich Nietzsche
+طغhernández
+mnemosyneغ
+يtsvangirai
